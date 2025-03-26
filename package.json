@@ -4,8 +4,8 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run start",
-    "watch": "npm run watch"
+    "start": "node script.js",
+    "watch": "node --watch script.js"
   },
   "repository": {
     "type": "git",
